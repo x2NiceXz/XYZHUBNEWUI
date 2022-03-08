@@ -164,7 +164,7 @@ function Blacklib:Window(gametitle)
     CloseImage.BackgroundTransparency = 1.000
     CloseImage.Size = UDim2.new(0, 0, 0, 0)
     CloseImage.Position = UDim2.new(0, -370, 0, 170)
-    CloseImage.Image = "rbxassetid://8666601749"
+    CloseImage.Image = "rbxassetid://0000000"
     CloseImage.ImageColor3 = Color3.fromRGB(150, 30, 30)
     
     ServerTime.Name = "ServerTime"
